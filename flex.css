@@ -16,4 +16,7 @@ body {
 
 .container {
     background-color: beige;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
